@@ -1,3 +1,3 @@
 # inbox
 
-this is a test smart contract implementation
+# This is a test smart contract implementation
